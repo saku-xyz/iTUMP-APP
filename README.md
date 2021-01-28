@@ -1,5 +1,5 @@
 # CRUD-App-with-NodeJS-Express
-NodeJs + Express + Handlebars + Mysql CRUD application
+NodeJs + Express + Mysql CRUD application
 
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
@@ -7,6 +7,12 @@ NodeJs + Express + Handlebars + Mysql CRUD application
 
 ```sh
 $ npm install -g express-generator
+```
+
+## Install Nodemon
+
+```sh
+$ npm install -g nodemon
 ```
 
 ## Quick Start
