@@ -19,9 +19,9 @@ $ npm install -g nodemon
 
 The quickest way to get started with express is to utilize the executable `express(1)` to generate an application as shown below:
 
-#### Clone the Repo : https://github.com/saku97/CRUD-App-with-NodeJS-Express/
+#### Clone the Repo : https://github.com/saku97/iTUMP-APP/
 
-#### Import crud-app-experssjs.sql file into your mysql server.
+#### Import node-crud.sql file into your mysql server.
 
 #### Install dependencies:
 
